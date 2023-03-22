@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.77f0a591.css",
+    "main.js": "/my-portfolio/static/js/main.3a1ab951.js",
+    "static/js/787.fe039db8.chunk.js": "/my-portfolio/static/js/787.fe039db8.chunk.js",
+    "static/media/fun.webp": "/my-portfolio/static/media/fun.3f9b86369b6678967197.webp",
+    "static/media/3.webp": "/my-portfolio/static/media/3.61fa1493ff370851824c.webp",
+    "static/media/2.webp": "/my-portfolio/static/media/2.0b7c34696bb7b7f5edbd.webp",
+    "static/media/games.webp": "/my-portfolio/static/media/games.64f1fbc53ce997b97838.webp",
+    "static/media/Instagram.webp": "/my-portfolio/static/media/Instagram.ac8f00ccd979326a77c3.webp",
+    "static/media/dance.webp": "/my-portfolio/static/media/dance.c779e465d3089c9c492f.webp",
+    "static/media/teamwork.webp": "/my-portfolio/static/media/teamwork.d64edc8429b506a45845.webp",
+    "static/media/1.webp": "/my-portfolio/static/media/1.0b129ac7015c9e56a340.webp",
+    "static/media/website.webp": "/my-portfolio/static/media/website.b8c891586e916ca37849.webp",
+    "static/media/AviBlogsIcon.webp": "/my-portfolio/static/media/AviBlogsIcon.9d4d88dfa6959780b7d9.webp",
+    "static/media/Facebook.webp": "/my-portfolio/static/media/Facebook.23fa3f6eb36dd7a2327a.webp",
+    "static/media/LinkedIn.webp": "/my-portfolio/static/media/LinkedIn.fc98ba00b222d9832b65.webp",
+    "index.html": "/my-portfolio/index.html",
+    "main.77f0a591.css.map": "/my-portfolio/static/css/main.77f0a591.css.map",
+    "main.3a1ab951.js.map": "/my-portfolio/static/js/main.3a1ab951.js.map",
+    "787.fe039db8.chunk.js.map": "/my-portfolio/static/js/787.fe039db8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77f0a591.css",
+    "static/js/main.3a1ab951.js"
+  ]
+}
