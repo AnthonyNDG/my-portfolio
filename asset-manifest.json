@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.1a65c4d9.css",
-    "main.js": "/my-portfolio/static/js/main.9304e74b.js",
+    "main.css": "/my-portfolio/static/css/main.debde67e.css",
+    "main.js": "/my-portfolio/static/js/main.c9b9388a.js",
     "static/js/787.fe039db8.chunk.js": "/my-portfolio/static/js/787.fe039db8.chunk.js",
     "pdf.worker.js": "/my-portfolio/a5433c0f4a61c5e863ba57d46d985783.js",
-    "static/media/Resume.svg": "/my-portfolio/static/media/Resume.3cbb10b9408e4ca0800870b7504c3e3c.svg",
+    "static/media/Resume.svg": "/my-portfolio/static/media/Resume.f3f9c1b4d0636cea957eaa7aa13ab1b6.svg",
     "static/media/TiltNeon-Regular.ttf": "/my-portfolio/static/media/TiltNeon-Regular.f0cf4e9d55d75f58f0ca.ttf",
-    "static/media/AviBlogsBanner.webp": "/my-portfolio/static/media/AviBlogsBanner.ff5996aaabd2b3bc54dd.webp",
+    "static/media/AlasWebpage.webp": "/my-portfolio/static/media/AlasWebpage.98af527b478b49362c0d.webp",
     "static/media/ContentPageBanner.webp": "/my-portfolio/static/media/ContentPageBanner.f4c79800f12d658318c5.webp",
-    "static/media/Resume.pdf": "/my-portfolio/static/media/Resume.645bc075de81e6b30f2f.pdf",
+    "static/media/Resume.pdf": "/my-portfolio/static/media/Resume.6f25686210a660e48677.pdf",
     "static/media/HospitalLocatorBanner.webp": "/my-portfolio/static/media/HospitalLocatorBanner.663f421f032156238f29.webp",
+    "static/media/WeatherMe.webp": "/my-portfolio/static/media/WeatherMe.040c0d189ddb9784103c.webp",
     "static/media/Profilepic.webp": "/my-portfolio/static/media/Profilepic.080ed59fefab8777732c.webp",
     "static/media/PseudoStarterBanner.webp": "/my-portfolio/static/media/PseudoStarterBanner.0e778cb27be9c1774d2e.webp",
     "static/media/Kog64QR.webp": "/my-portfolio/static/media/Kog64QR.718385fc482546ed44bb.webp",
     "static/media/mail.png": "/my-portfolio/static/media/mail.b40d01a091261666bd3d.png",
     "static/media/HospitalLocatorQR.webp": "/my-portfolio/static/media/HospitalLocatorQR.e87a56ee7b0af76cfbf4.webp",
     "static/media/PseudoStarterQR.webp": "/my-portfolio/static/media/PseudoStarterQR.b3f59dd7ae1714cec542.webp",
-    "static/media/AviBlogsQR.webp": "/my-portfolio/static/media/AviBlogsQR.0f5912eb4720fbbe2f67.webp",
     "index.html": "/my-portfolio/index.html",
     "static/media/LinkedIn.webp": "/my-portfolio/static/media/LinkedIn.2602ee104d5c870759a7.webp",
-    "main.1a65c4d9.css.map": "/my-portfolio/static/css/main.1a65c4d9.css.map",
-    "main.9304e74b.js.map": "/my-portfolio/static/js/main.9304e74b.js.map",
+    "main.debde67e.css.map": "/my-portfolio/static/css/main.debde67e.css.map",
+    "main.c9b9388a.js.map": "/my-portfolio/static/js/main.c9b9388a.js.map",
     "787.fe039db8.chunk.js.map": "/my-portfolio/static/js/787.fe039db8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1a65c4d9.css",
-    "static/js/main.9304e74b.js"
+    "static/css/main.debde67e.css",
+    "static/js/main.c9b9388a.js"
   ]
 }
