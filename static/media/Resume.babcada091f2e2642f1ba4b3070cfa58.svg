@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="612pt" height="792pt" viewBox="0 0 612 792">
 <path transform="matrix(.75,0,0,.75,0,0)" d="M0 0H816V1056H0Z" fill="#ffffff"/>
-<path transform="matrix(.75,0,0,.75,36,372.5809)" d="M24 0H691.125V17.089844H24Z" fill="#ffffff"/>
-<path transform="matrix(.75,0,0,.75,36,386.41304)" d="M48 0H605.9424V17.089844H48Z" fill="#ffffff"/>
+<path transform="matrix(.75,0,0,.75,36,372.5809)" d="M24 0H692.4922V17.089844H24Z" fill="#ffffff"/>
+<path transform="matrix(.75,0,0,.75,36,386.41304)" d="M48 0H698.2754V17.089844H48Z" fill="#ffffff"/>
 <path transform="matrix(.75,0,0,.75,36,400.24513)" d="M24 0H711.3457V17.089844H24Z" fill="#ffffff"/>
 <path transform="matrix(.75,0,0,.75,36,414.07719)" d="M24 0H707.7158V17.089844H24Z" fill="#ffffff"/>
 <path transform="matrix(.75,0,0,.75,36,427.9093)" d="M24 0H714.7363V17.089844H24Z" fill="#ffffff"/>
@@ -12,10 +12,8 @@
 <text fill="#1c4587" xml:space="preserve" transform="matrix(.75 0 0 .75 36 36)" font-size="26.666666" font-family="Calibri"><tspan y="25.885416" x="317.62709 334.8339 340.9513 354.95625">Nino</tspan></text>
 <text fill="#1c4587" xml:space="preserve" transform="matrix(.75 0 0 .75 36 36)" font-size="26.666666" font-family="Calibri"><tspan y="25.885416" x="375.03956 391.4394">De</tspan></text>
 <text fill="#1c4587" xml:space="preserve" transform="matrix(.75 0 0 .75 36 36)" font-size="26.666666" font-family="Calibri"><tspan y="25.885416" x="410.72874 427.54508 441.55003 452.07978 473.37355 486.14198">Guzman</tspan></text>
-<text fill="#1c4587" xml:space="preserve" transform="matrix(.75 0 0 .75 36 62.34684)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="279.5957 286.0217 293.3717 296.5777">Full</tspan></text>
-<text fill="#1c4587" xml:space="preserve" transform="matrix(.75 0 0 .75 36 62.34684)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="302.9746 309.4006 313.92579 320.63179 326.55378">Stack</tspan></text>
-<text fill="#1c4587" xml:space="preserve" transform="matrix(.75 0 0 .75 36 62.34684)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="336.08106 342.50706 349.88505 354.15504 358.84504 368.70899 375.41499 380.11134">Software</tspan></text>
-<text fill="#1c4587" xml:space="preserve" transform="matrix(.75 0 0 .75 36 62.34684)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="390.2422 397.0742 404.4242 411.0182 414.22419 421.5742 428.5462 435.5182">Engineer</tspan></text>
+<text fill="#1c4587" xml:space="preserve" transform="matrix(.75 0 0 .75 36 62.34684)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="307.83839 314.26438 321.64237 325.91236 330.60237 340.4663 347.1723 351.86866">Software</tspan></text>
+<text fill="#1c4587" xml:space="preserve" transform="matrix(.75 0 0 .75 36 62.34684)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="361.9995 368.8315 376.18153 382.7755 385.9815 393.3315 400.30354 407.2755">Engineer</tspan></text>
 <text xml:space="preserve" transform="matrix(.75 0 0 .75 36 76.17894)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="15.325195 22.031197 29.256836 33.946836 41.296838 48.674837 55.780275 62.122274 69.472278 72.678279 80.028278 87.40627 94.75627 101.72827 108.32227 115.67227 121.20227 132.38828 139.09427 146.44428 158.96028 165.55428 176.74028 183.44628 186.65227 189.85826 193.38626 199.22559 206.60359">anthonyninodeguzman@gmail.com</tspan></text>
 <text xml:space="preserve" transform="matrix(.75 0 0 .75 36 76.17894)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="220.95703">&#x2022;</tspan></text>
 <text xml:space="preserve" transform="matrix(.75 0 0 .75 36 76.17894)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="231.09473 238.19274 245.29074 252.38875 256.67277 263.77076 270.86875 277.96675 282.25074 289.34873 296.44673 303.5447">646-894-8176</tspan></text>
@@ -26,34 +24,34 @@
 <text fill="#1c4587" xml:space="preserve" transform="matrix(.75 0 0 .75 36 103.84312)" font-size="16" font-family="Calibri" font-weight="bold"><tspan y="15.53125" x="0 7.5680005 16.320002 20.592003 27.360003 34.128004">SKILLS</tspan></text>
 <text xml:space="preserve" transform="matrix(.75 0 0 .75 36 119.65123)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="0 8.722 15.540001 27.510003">HTML</tspan></text>
 <text xml:space="preserve" transform="matrix(.75 0 0 .75 36 119.65123)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="36.56543">&#x00b7;</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 119.65123)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="43.26465 50.502649 59.224649">PHP</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 119.65123)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="69.61719">&#x00b7;</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 119.65123)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="76.31641 83.778408 90.20441">CSS</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 119.65123)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="99.81152">&#x00b7;</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 119.65123)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="106.51074 112.84082 120.94682 127.372829">SASS</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 119.65123)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="136.97168">&#x00b7;</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 119.65123)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="143.6709 148.1369 154.6084 160.72657 167.43256 173.85855 179.78055 184.66655 187.87255 195.17285">JavaScript</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 119.65123)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="203.02735">&#x00b7;</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 119.65123)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="209.72657 215.91309 222.25508 229.60509 236.57709 243.00308 248.92508 253.81108 257.0171 264.31153">TypeScript</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 119.65123)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="272.16603">&#x00b7;</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 119.65123)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="278.86524 286.2207 293.1927 299.89869 305.82069 310.51069 314.0387 317.3847">React.js</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 119.65123)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="326.02638">&#x00b7;</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 119.65123)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="332.7256 341.7696 349.14759 356.4976 363.4696 366.99763 370.34364">Node.js</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 119.65123)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="378.9912">&#x00b7;</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 119.65123)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="385.69044 392.11643 401.53843">SQL</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 119.65123)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="410.59376">&#x00b7;</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 119.65123)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="417.29298 421.75898 428.23048 434.34864">Java</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 119.65123)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="444.21974">&#x00b7;</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 119.65123)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="450.91896 458.2334 464.63868 469.32868 476.67869 484.05668">Python</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 119.65123)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="494.5869">&#x00b7;</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 119.65123)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="501.28614 508.74815 515.8262">C++</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 119.65123)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="525.96389">&#x00b7;</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 119.65123)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="532.6631 540.2651 546.96389 553.3008 560.1188 564.3888 571.7388">RESTful</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 119.65123)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="578.1289 586.2349 593.4729">API</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 119.65123)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="600.1543">&#x00b7;</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 119.65123)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="606.8535 614.4072 626.79397">AWS</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 119.65123)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="636.3916">&#x00b7;</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 119.65123)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="643.0908 649.51687 652.72286 657.4326 664.4046 671.7546 678.4606 683.9346">Firebase</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 119.65123)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="43.26465 49.690649 56.314455">SEO</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 119.65123)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="68.74902">&#x00b7;</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 119.65123)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="75.44824 82.91024 89.33624">CSS</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 119.65123)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="98.94336">&#x00b7;</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 119.65123)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="105.64258 111.97266 120.07866 126.50466">SASS</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 119.65123)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="136.10352">&#x00b7;</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 119.65123)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="142.80274 147.26874 153.74024 159.8584 166.56439 172.99039 178.91239 183.79839 187.00438 194.30469">JavaScript</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 119.65123)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="202.15918">&#x00b7;</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 119.65123)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="208.8584 215.04492 221.38692 228.73693 235.70893 242.13492 248.05692 252.94292 256.14894 263.44337">TypeScript</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 119.65123)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="271.29786">&#x00b7;</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 119.65123)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="277.99708 285.35255 292.32453 299.03053 304.9525 309.64253 313.17054 316.51655">React.js</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 119.65123)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="325.1582">&#x00b7;</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 119.65123)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="331.85743 340.90144 348.27943 355.62944 362.60145 366.12947 369.47547">Node.js</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 119.65123)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="378.12306">&#x00b7;</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 119.65123)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="384.82228 393.81028 401.07627 406.48027 415.46827">UX/UI</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 119.65123)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="422.15333">&#x00b7;</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 119.65123)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="428.85255 433.31855 439.79005 445.9082">Java</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 119.65123)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="455.7793">&#x00b7;</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 119.65123)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="462.47853 469.79298 476.19825 480.88825 488.23826 495.61625">Python</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 119.65123)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="506.14649">&#x00b7;</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 119.65123)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="512.8457 520.3077 527.38577">C++</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 119.65123)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="537.52346">&#x00b7;</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 119.65123)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="544.22268 551.82467 558.52346 564.86038 571.67837 575.94839 583.29837">RESTful</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 119.65123)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="589.6885 597.7945 605.0325">API</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 119.65123)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="611.71389">&#x00b7;</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 119.65123)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="618.4131 625.9668 638.3535">AWS</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 119.65123)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="647.9512">&#x00b7;</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 119.65123)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="654.6504 661.0764 664.2824 668.9922 675.9642 683.31417 690.02017 695.49417">Firebase</tspan></text>
 <text fill="#1c4587" xml:space="preserve" transform="matrix(.75 0 0 .75 36 147.31542)" font-size="16" font-family="Calibri" font-weight="bold"><tspan y="15.53125" x="0 7.8080008 17.888 28.336003 36.800004 45.25 53.170003 57.442 68.258">EDUCATION</tspan></text>
 <text xml:space="preserve" transform="matrix(.75 0 0 .75 36 163.1235)" font-size="14" font-family="Calibri" font-weight="bold"><tspan y="13.589844" x="0 7.4060008 16.548003 25.774003">CUNY</tspan></text>
 <text xml:space="preserve" transform="matrix(.75 0 0 .75 36 163.1235)" font-size="14" font-family="Calibri" font-weight="bold"><tspan y="13.589844" x="36.20996 45.81396 53.331964 60.373964 67.41596 74.93396">Queens</tspan></text>
@@ -172,23 +170,23 @@
 <text xml:space="preserve" transform="matrix(.75 0 0 .75 36 303.42048)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="534.2881 538.9844 545.95639 552.55038 555.75637 561.0713 565.7613 570.3545 576.93069 581.62069 584.82669 592.20468">registration</tspan></text>
 <text xml:space="preserve" transform="matrix(.75 0 0 .75 36 303.42048)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="602.7363 609.49026 615.55227 622.9022 629.8742 634.7602 637.9662 644.9382 652.28817 658.21017">experience</tspan></text>
 <text xml:space="preserve" transform="matrix(.75 0 0 .75 36 317.25254)" font-size="14" font-family="ArialMT"><tspan y="13.589844" x="24">&#x25cf;</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 317.25254)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="48 55.462 62.812005 68.13867 72.69141 80.069408 91.2554 94.4614 99.68652">Customize</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 317.25254)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="109.81738">a</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 317.25254)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="119.68848 124.91113 131.11817 136.43653 140.97559 147.94759">system</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 317.25254)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="162.29004 166.26856 173.64656">for</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 317.25254)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="181.69727 189.04727 194.52127 201.49327 206.13574">users</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 317.25254)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="214.77637 219.3291">to</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 317.25254)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="229.87696 236.63086 242.69286 250.04286 254.7461 261.71809 267.19209">express</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 317.25254)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="275.82814 279.75196 286.72395 293.69593 301.04594 308.39595 315.10194 321.02394">feedback</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 317.25254)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="330.5498 337.9278">or</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 317.25254)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="345.97853 353.32853 360.67854 367.6505 372.97364 377.66365 380.86964 388.24763">question</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 317.25254)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="398.7793 406.1293 411.6033 414.8093 422.1593">using</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 317.25254)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="431.9336 438.7656 449.9516 456.6576 459.8636 463.06959 467.53559">EmailJS</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 317.25254)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="477.14649 480.35249 487.70249 493.62449 498.33106 505.30305 512.00906 517.48306 520.689 528.039">increasing</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 317.25254)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="537.80178 545.15176 550.62576 557.5977">user</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 317.25254)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="565.64456 572.6165 579.9665 586.2959 593.0019 599.4756 606.4476 617.63357 624.6055 631.8164">engagement</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 317.25254)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="639.6709 646.3769 653.72689">and</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 317.25254)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="664.2529 667.4589 674.77346 680.89846 687.60446 690.8104 695.5004">loyalty</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 317.25254)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="48 56.988 61.677999 64.883998 68.09 71.296 76.52637">Utilize</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 317.25254)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="86.65723">a</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 317.25254)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="96.52832 101.75098 107.95801 113.27637 117.81543 124.78743">system</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 317.25254)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="139.12989 143.1084 150.4864">for</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 317.25254)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="158.53711 165.88712 171.36112 178.33312 182.97559">users</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 317.25254)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="191.61621 196.16895">to</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 317.25254)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="206.7168 213.4707 219.5327 226.8827 231.58594 238.55794 244.03194">express</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 317.25254)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="252.66797 256.5918 263.56379 270.53578 277.88578 285.23579 291.94178 297.86378">feedback</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 317.25254)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="307.38966 314.76765">or</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 317.25254)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="322.81837 330.16838 337.51838 344.49037 349.81349 354.50349 357.70948 365.08747">question</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 317.25254)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="375.61915 382.96916 388.44316 391.64915 398.99916">using</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 317.25254)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="408.77345 415.60545 426.79145 433.49745 436.70344 439.90943 444.37544">EmailJS</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 317.25254)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="453.98634 457.19233 464.54234 470.46434 475.1709 482.14289 488.84889 494.32289 497.52888 504.87889">increasing</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 317.25254)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="514.6416 521.9916 527.4656 534.43759">user</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 317.25254)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="542.4844 549.45639 556.80636 563.13577 569.84176 576.3154 583.2874 594.4734 601.4454 608.65628">engagement</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 317.25254)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="616.51077 623.21676 630.5667">and</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 317.25254)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="641.0928 644.29879 651.6133 657.7383 664.4443 667.65029 672.3403">loyalty</tspan></text>
 <text xml:space="preserve" transform="matrix(.75 0 0 .75 36 344.91676)" font-size="14" font-family="Calibri" font-weight="bold"><tspan y="13.589844" x="0 6.622 14.154001 18.578001 23.436 33.708009 40.62401 45.438478">Software</tspan></text>
 <text xml:space="preserve" transform="matrix(.75 0 0 .75 36 344.91676)" font-size="14" font-family="Calibri" font-weight="bold"><tspan y="13.589844" x="55.651369 62.483369 70.001369 76.63737 80.08137 87.599369 94.641368 101.683368">Engineer</tspan></text>
 <text xml:space="preserve" transform="matrix(.75 0 0 .75 36 344.91676)" font-size="14" font-family="Calibri" font-weight="bold"><tspan y="13.589844" x="109.819339 116.04004 123.08204 126.52604 129.97003 137.46387 147.80664 153.39264 160.91065 164.35465">Fellowship</tspan></text>
@@ -211,32 +209,33 @@
 <text xml:space="preserve" transform="matrix(.75 0 0 .75 36 372.5809)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="202.47168 210.57769 217.92769">App</tspan></text>
 <text xml:space="preserve" transform="matrix(.75 0 0 .75 36 372.5809)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="228.44824 238.45824 241.66423 246.35424">with</tspan></text>
 <text xml:space="preserve" transform="matrix(.75 0 0 .75 36 372.5809)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="256.8789">a</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 372.5809)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="266.75 271.28907 278.26106 284.96705">team</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 372.5809)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="299.30958 306.68757">of</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 372.5809)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="314.12989">3</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 372.5809)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="324.39064 331.74064 337.21464 340.42063 347.77064">using</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 372.5809)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="357.54493 364.9004 371.87239 378.57838 384.50038 389.19038">React,</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 372.5809)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="395.83985 403.94584 410.43458 417.81257 422.41114 429.11714">Agora,</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 372.5809)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="435.7754 442.48139 449.8314">and</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 372.5809)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="460.35743 466.78343 469.9894 474.69923 481.6712 489.0212 495.7272 501.2012">Firebase</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 372.5809)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="511.333 515.8721 522.84408 528.76608 536.116 543.466 550.844 554.05 561.428 568.022 571.22799 578.19998">technologies</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 372.5809)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="586.85647 591.4092">to</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 372.5809)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="601.95706 613.143 620.521 625.211 628.417 634.54397 641.1201 645.6592">motivate</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 372.5809)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="655.79006 660.06008 667.41006 672.10006 679.45 684.1592">future</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 386.41304)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="48 53.474 60.851999 65.121997 69.812 79.6709 86.3769 91.07324">software</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 386.41304)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="101.2041 108.1761 115.5261 122.1201 125.3261 132.6761 139.6481 146.6201 151.25684">engineers</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 386.41304)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="159.89746 164.4502">to</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 386.41304)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="174.99805 181.75196 187.81395 195.16396 201.86995 209.21996">expand</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 386.41304)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="219.75293 224.44293 231.79294 238.76494 241.97093">their</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 386.41304)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="250.02246 257.37248 264.26856 268.95857 278.83595 286.21394 291.0999 297.4699">network,</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 386.41304)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="304.12208 308.81837 315.66114 319.93113 323.13713 330.48713">refine</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 386.41304)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="340.6328 345.3228 352.67283 359.64485 362.85084">their</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 386.41304)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="370.90235 376.37635 382.74635 385.95234 389.15834 392.36433 397.83833">skills,</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 386.41304)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="404.51466 411.22065 418.57066">and</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 386.41304)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="429.09669 436.4467 443.3496 449.53614 456.50813 459.7141 467.0921">develop</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 386.41304)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="477.61817 482.30818 489.65818 496.6302 499.83619">their</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 386.41304)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="507.8877 515.2377 522.20968 526.8506 532.3246 539.7026 547.05258 553.75857">personal</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 386.41304)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="560.14846 567.4984 572.1592 579.5372 582.8832 589.85519 595.77719 600.46719">projects</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 372.5809)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="266.75 272.672 277.3252 284.7032 290.1772 295.65119 299.82228 304.09226 311.44227 318.79228 324.71427 329.40428 332.61027 339.98826 347.33827 354.04426">cross-functional</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 372.5809)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="360.4502 364.98927 371.96125 378.66725">team</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 372.5809)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="393.00978 400.38777">of</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 372.5809)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="407.83009">3</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 372.5809)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="418.09083 425.44084 430.91484 434.12083 441.47084">using</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 372.5809)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="451.24513 458.6006 465.57258 472.27857 478.20057 482.89057">React,</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 372.5809)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="489.54005 497.64604 504.13478 511.51277 516.1113 522.8173">Agora,</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 372.5809)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="529.4756 536.1816 543.53158">and</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 372.5809)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="554.0576 560.48367 563.68966 568.3994 575.3714 582.7214 589.42739 594.90139">Firebase</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 372.5809)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="605.0332 609.57229 616.54428 622.46627 629.8162 637.1662 644.5442 647.7502 655.1282 661.72219 664.92819 671.90017">technologies</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 372.5809)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="680.55667 685.1094">to</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 386.41304)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="48 59.186 66.564 71.254009 74.46001 80.586917 87.163089 91.70215">motivate</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 386.41304)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="101.83301 106.103008 113.453 118.143009 125.493007 130.20215">future</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 386.41304)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="140.33301 145.807 153.18502 157.45502 162.14502 172.0039 178.7099 183.40625">software</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 386.41304)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="193.53711 200.50911 207.85912 214.45311 217.6591 225.00911 231.98111 238.95311 243.58985">engineers</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 386.41304)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="252.23047 256.7832">to</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 386.41304)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="267.33106 274.08497 280.14698 287.49699 294.20298 301.55299">expand</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 386.41304)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="312.08595 316.77595 324.12596 331.09797 334.30397">their</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 386.41304)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="342.35548 349.70549 356.60157 361.29158 371.16896 378.54695 383.43293 389.80293">network,</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 386.41304)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="396.45509 401.15138 407.99415 412.26414 415.47013 422.82014">refine</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 386.41304)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="432.96583 437.65583 445.00584 451.97785 455.18385">their</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 386.41304)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="463.23536 468.70936 475.07936 478.28535 481.49134 484.69734 490.17134">skills,</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 386.41304)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="496.84767 503.55366 510.90367">and</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 386.41304)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="521.4297 528.77969 535.6826 541.86917 548.8411 552.0471 559.4251">develop</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 386.41304)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="569.9512 574.6412 581.99118 588.96316 592.1691">their</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 386.41304)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="600.2207 607.5707 614.54269 619.1836 624.6576 632.0356 639.38558 646.09158">personal</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 386.41304)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="652.48147 659.8314 664.4922 671.8702 675.2162 682.1882 688.11019 692.8002">projects</tspan></text>
 <text xml:space="preserve" transform="matrix(.75 0 0 .75 36 400.24513)" font-size="14" font-family="ArialMT"><tspan y="13.589844" x="24">&#x25cf;</tspan></text>
 <text xml:space="preserve" transform="matrix(.75 0 0 .75 36 400.24513)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="48 51.528 58.75293 63.291994 70.26399 76.857997 81.44141 88.01758 92.55664 99.52864">Integrated</tspan></text>
 <text xml:space="preserve" transform="matrix(.75 0 0 .75 36 400.24513)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="110.04297">a</tspan></text>
@@ -366,14 +365,13 @@
 <text xml:space="preserve" transform="matrix(.75 0 0 .75 36 540.54208)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="340.54396 352.51396 359.21995 366.56996 373.91996 381.04005">Mapbox</tspan></text>
 <text xml:space="preserve" transform="matrix(.75 0 0 .75 36 540.54208)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="390.26856 398.37455 405.61256">API</tspan></text>
 <text xml:space="preserve" transform="matrix(.75 0 0 .75 36 540.54208)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="412.29396 418.99995 426.34996">and</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 540.54208)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="436.87599 441.34199 447.76799 457.03599">JSON</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 540.54208)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="469.24415 473.79689">to</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 540.54208)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="484.34474 491.05073 494.2567 497.4627 504.8047">allow</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 540.54208)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="517.97756 525.3275 530.8015 537.7735 542.416">users</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 540.54208)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="551.05667 555.6094">to</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 540.54208)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="566.1572 571.6312 578.6032 585.3092 596.4952 599.7012 606.67318 612.14718 617.62118 620.82717">seamlessly</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 540.54208)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="630.333 636.661 639.867 646.7666">view</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 540.54208)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="659.93948 664.62948 671.97946 678.9514 682.1574">their</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 540.54208)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="436.87599 441.34199 447.76799 457.03599 466.08">JSON,</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 540.54208)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="472.7373 479.4433 482.6493 485.8553 493.19728 503.20729 506.41328 513.76327">allowing</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 540.54208)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="523.5283 530.8783 536.3523 543.3243 547.9668">users</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 540.54208)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="556.6074 561.16018">to</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 540.54208)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="571.708 577.182 584.154 590.86 602.04598 605.25198 612.22396 617.69796 623.17196 626.3779">seamlessly</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 540.54208)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="635.8838 642.2118 645.4178 652.3174">view</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 540.54208)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="665.49026 670.18026 677.5302 684.5022 687.7082">their</tspan></text>
 <text xml:space="preserve" transform="matrix(.75 0 0 .75 36 554.37417)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="48 53.922 61.272005 66.158008 70.85254 77.82454 85.043949">current</tspan></text>
 <text xml:space="preserve" transform="matrix(.75 0 0 .75 36 554.37417)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="92.89844 100.248439 107.626438 113.10043 116.306438 120.99644 124.20244 131.58045">position</tspan></text>
 <text xml:space="preserve" transform="matrix(.75 0 0 .75 36 554.37417)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="142.13086 148.83686 156.18686">and</tspan></text>
@@ -395,17 +393,17 @@
 <text xml:space="preserve" transform="matrix(.75 0 0 .75 36 568.2062)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="48 55.35547 62.32747 67.63965 72.32965 77.21565 84.56565 90.48765 95.17765 102.52765 107.22656 114.19856">Restructured</tspan></text>
 <text xml:space="preserve" transform="matrix(.75 0 0 .75 36 568.2062)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="124.71289 129.4029 136.7529">the</tspan></text>
 <text xml:space="preserve" transform="matrix(.75 0 0 .75 36 568.2062)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="146.88867 155.61067 162.98868 168.46268 175.81269 179.01868 183.55664 190.26264">Hospital</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 568.2062)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="196.64063 203.95508 211.33309 216.65625 221.19532 228.16732">Roster</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 568.2062)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="236.20703 242.91303 247.79903 252.3877 259.0937 266.4437 272.92286 279.89485 291.08085 298.05287 305.26368">arrangement</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 568.2062)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="313.11817 320.46818 327.17417 332.64817 339.62019">based</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 568.2062)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="350.1416 357.5196">on</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 568.2062)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="368.04493 375.39494 382.36695 389.07295 393.76856 400.74055 406.05274">nearest</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 568.2062)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="413.90724 421.25724 425.91798 433.02735 439.08937 442.29536 453.48136 456.68736 461.37736">proximity</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 568.2062)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="470.8916 478.2416 483.7156 486.9216 494.2716">using</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 568.2062)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="504.0459 510.7519 518.10189 524.2256 530.9316 538.28158 544.20358 551.17556">advanced</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 568.2062)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="561.69338 566.15939 572.63088 578.749 585.455 590.929 596.851 601.737 604.943 612.2383">Javascript</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 568.2062)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="620.0928 626.79879 630.00479 636.50588 643.88388 648.76986 651.9758 656.66586 664.0158 675.2018">algorithms</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 568.2062)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="683.85159 688.4043">to</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 568.2062)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="196.64063 203.06662 210.03862 216.74462 221.4209 227.3429">Search</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 568.2062)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="237.86133 244.56732 249.45333 254.04199 260.748 268.098 274.57716 281.54914 292.73515 299.70716 306.91798">arrangement</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 568.2062)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="314.77247 322.12248 328.82847 334.30247 341.27449">based</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 568.2062)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="351.7959 359.1739">on</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 568.2062)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="369.69923 377.04924 384.02125 390.72724 395.42286 402.39485 407.70704">nearest</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 568.2062)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="415.56153 422.91154 427.57228 434.68165 440.74366 443.94966 455.13566 458.34165 463.03166">proximity</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 568.2062)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="472.5459 479.8959 485.3699 488.5759 495.9259">using</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 568.2062)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="505.7002 512.4062 519.75619 525.8799 532.5859 539.93588 545.85787 552.82986">advanced</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 568.2062)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="563.34768 567.81369 574.28518 580.4033 587.1093 592.5833 598.5053 603.3913 606.5973 613.8926">Javascript</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 568.2062)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="621.7471 628.45309 631.65908 638.16018 645.53817 650.42416 653.6301 658.3201 665.6701 676.8561">algorithms</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 568.2062)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="685.50588 690.0586">to</tspan></text>
 <text xml:space="preserve" transform="matrix(.75 0 0 .75 36 582.0383)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="48 54.706 57.912004 64.884 69.770008">alert</tspan></text>
 <text xml:space="preserve" transform="matrix(.75 0 0 .75 36 582.0383)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="77.62012 82.31012 89.66012">the</tspan></text>
 <text xml:space="preserve" transform="matrix(.75 0 0 .75 36 582.0383)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="99.7959 107.1459 112.619899 119.591899">user</tspan></text>
@@ -522,11 +520,11 @@
 <text xml:space="preserve" transform="matrix(.75 0 0 .75 36 708.5032)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="378.3125 385.0185 392.3685">and</tspan></text>
 <text xml:space="preserve" transform="matrix(.75 0 0 .75 36 708.5032)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="402.89454 412.74513 419.1914 425.39845">ways</tspan></text>
 <text xml:space="preserve" transform="matrix(.75 0 0 .75 36 708.5032)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="434.03907 438.5918">to</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 708.5032)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="449.13966 454.94337 462.32136 465.52735 468.73335 475.43934 482.78935 490.16734 494.79005 501.3662 505.90528">collaborate</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 708.5032)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="516.03616 526.04617 529.25216 533.94216">with</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 708.5032)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="544.4668 551.8448 556.53909 562.86917 569.57516 576.9251 580.1311 585.4414 592.0176 596.7076 599.9136 607.29159 614.64157">organizations</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 708.5032)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="623.2988 627.27737 634.65536">for</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 708.5032)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="642.70608 649.41207 655.33407 660.02407 663.23007 669.55807 672.76406 677.45407 680.66006 687.632">activities</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 708.5032)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="449.13966 454.94337 462.32136 473.50736 484.69337 492.04338 499.39338 502.59938 508.4209 514.9971 519.53616">communicate</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 708.5032)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="529.667 539.677 542.883 547.573">with</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 708.5032)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="558.09768 565.47567 570.1699 576.5 583.206 590.55599 593.76199 599.07229 605.64846 610.33847 613.54446 620.9224 628.2724">organizations</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 708.5032)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="636.9297 640.9082 648.2862">for</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 708.5032)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="656.3369 663.0429 668.9649 673.6549 676.8609 683.1889 686.3949 691.0849 694.2909 701.2629">activities</tspan></text>
 <text xml:space="preserve" transform="matrix(.75 0 0 .75 36 722.3352)" font-size="14" font-family="ArialMT"><tspan y="13.589844" x="24">&#x25cf;</tspan></text>
 <text xml:space="preserve" transform="matrix(.75 0 0 .75 36 722.3352)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="48 54.832 62.182 65.388 72.094 76.799808 83.27344 90.24544">Enlarged</tspan></text>
 <text xml:space="preserve" transform="matrix(.75 0 0 .75 36 722.3352)" font-size="14" font-family="Calibri"><tspan y="13.589844" x="100.759769 105.44977 112.79977">the</tspan></text>

@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/my-portfolio/static/css/main.debde67e.css",
-    "main.js": "/my-portfolio/static/js/main.bc151c91.js",
+    "main.js": "/my-portfolio/static/js/main.65898fb8.js",
     "static/js/787.fe039db8.chunk.js": "/my-portfolio/static/js/787.fe039db8.chunk.js",
     "pdf.worker.js": "/my-portfolio/a5433c0f4a61c5e863ba57d46d985783.js",
-    "static/media/Resume.svg": "/my-portfolio/static/media/Resume.f3f9c1b4d0636cea957eaa7aa13ab1b6.svg",
+    "static/media/Resume.svg": "/my-portfolio/static/media/Resume.babcada091f2e2642f1ba4b3070cfa58.svg",
     "static/media/TiltNeon-Regular.ttf": "/my-portfolio/static/media/TiltNeon-Regular.f0cf4e9d55d75f58f0ca.ttf",
     "static/media/AlasWebpage.webp": "/my-portfolio/static/media/AlasWebpage.98af527b478b49362c0d.webp",
     "static/media/ContentPageBanner.webp": "/my-portfolio/static/media/ContentPageBanner.f4c79800f12d658318c5.webp",
-    "static/media/Resume.pdf": "/my-portfolio/static/media/Resume.6f25686210a660e48677.pdf",
+    "static/media/Resume.pdf": "/my-portfolio/static/media/Resume.9809e1bce66122145770.pdf",
     "static/media/HospitalLocatorBanner.webp": "/my-portfolio/static/media/HospitalLocatorBanner.663f421f032156238f29.webp",
     "static/media/WeatherMe.webp": "/my-portfolio/static/media/WeatherMe.040c0d189ddb9784103c.webp",
     "static/media/Profilepic.webp": "/my-portfolio/static/media/Profilepic.080ed59fefab8777732c.webp",
@@ -20,11 +20,11 @@
     "index.html": "/my-portfolio/index.html",
     "static/media/LinkedIn.webp": "/my-portfolio/static/media/LinkedIn.2602ee104d5c870759a7.webp",
     "main.debde67e.css.map": "/my-portfolio/static/css/main.debde67e.css.map",
-    "main.bc151c91.js.map": "/my-portfolio/static/js/main.bc151c91.js.map",
+    "main.65898fb8.js.map": "/my-portfolio/static/js/main.65898fb8.js.map",
     "787.fe039db8.chunk.js.map": "/my-portfolio/static/js/787.fe039db8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.debde67e.css",
-    "static/js/main.bc151c91.js"
+    "static/js/main.65898fb8.js"
   ]
 }
