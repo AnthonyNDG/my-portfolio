@@ -1,10 +1,9 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.8bf0aa7c.css",
-    "main.js": "/my-portfolio/static/js/main.726f5934.js",
+    "main.css": "/my-portfolio/static/css/main.51bb8192.css",
+    "main.js": "/my-portfolio/static/js/main.3182e12b.js",
     "static/js/787.fe039db8.chunk.js": "/my-portfolio/static/js/787.fe039db8.chunk.js",
     "pdf.worker.js": "/my-portfolio/a5433c0f4a61c5e863ba57d46d985783.js",
-    "static/media/GraphicMe.png": "/my-portfolio/static/media/GraphicMe.63a9c0e449d14caabfe9.png",
     "static/media/Pulse3.webp": "/my-portfolio/static/media/Pulse3.7e2f18eea75b6f9aad4c.webp",
     "static/media/HeaderBackground.webp": "/my-portfolio/static/media/HeaderBackground.3720ec581d0ccab0141a.webp",
     "static/media/Pulse4.webp": "/my-portfolio/static/media/Pulse4.14fc740409f3b723dfcb.webp",
@@ -21,6 +20,8 @@
     "static/media/Lato-Black.ttf": "/my-portfolio/static/media/Lato-Black.57dee8aface5572f9101.ttf",
     "static/media/ContactMeImage.webp": "/my-portfolio/static/media/ContactMeImage.e22a74a2d13d480f91bc.webp",
     "static/media/HospitalLocatorBanner.webp": "/my-portfolio/static/media/HospitalLocatorBanner.663f421f032156238f29.webp",
+    "static/media/GraphicMe.webp": "/my-portfolio/static/media/GraphicMe.b56787107d5620609054.webp",
+    "static/media/GraphicMeMobile.webp": "/my-portfolio/static/media/GraphicMeMobile.a44c59e9046f9b988068.webp",
     "static/media/WeatherMe.webp": "/my-portfolio/static/media/WeatherMe.040c0d189ddb9784103c.webp",
     "static/media/PseudoStarterBanner.webp": "/my-portfolio/static/media/PseudoStarterBanner.0e778cb27be9c1774d2e.webp",
     "static/media/AdalbertLogo.webp": "/my-portfolio/static/media/AdalbertLogo.c31cc5cf3d32c58f0e9f.webp",
@@ -51,12 +52,12 @@
     "static/media/phone.svg": "/my-portfolio/static/media/phone.39386cfaf77f242f84b2dc13d8aad53b.svg",
     "static/media/linkedin.svg": "/my-portfolio/static/media/linkedin.b1a2f43282c6d83e235e7ab8e09da55b.svg",
     "static/media/mail.svg": "/my-portfolio/static/media/mail.0e3d2ff0e95fb3d77d0bc3757ff7c4d4.svg",
-    "main.8bf0aa7c.css.map": "/my-portfolio/static/css/main.8bf0aa7c.css.map",
-    "main.726f5934.js.map": "/my-portfolio/static/js/main.726f5934.js.map",
+    "main.51bb8192.css.map": "/my-portfolio/static/css/main.51bb8192.css.map",
+    "main.3182e12b.js.map": "/my-portfolio/static/js/main.3182e12b.js.map",
     "787.fe039db8.chunk.js.map": "/my-portfolio/static/js/787.fe039db8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8bf0aa7c.css",
-    "static/js/main.726f5934.js"
+    "static/css/main.51bb8192.css",
+    "static/js/main.3182e12b.js"
   ]
 }
